@@ -14,3 +14,4 @@ Our project name - Junkyard Juliot, is a robotic hand controlled using an Arduin
 - LEDs & Resistors – For visual feedback
 
 **Demo Video:**
+https://www.youtube.com/shorts/n4O7vhTaADU
