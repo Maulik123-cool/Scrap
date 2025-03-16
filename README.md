@@ -1,4 +1,4 @@
-# Scrap
+  # Scrap
 Scrapyard Bangkok
 
 **Justification / What is this?**
@@ -13,3 +13,4 @@ Our project name - Junkyard Juliot, is a robotic hand controlled using an Arduin
 - String or Fishing Line – To simulate for finger movement
 - LEDs & Resistors – For visual feedback
 
+**Demo Video:**
